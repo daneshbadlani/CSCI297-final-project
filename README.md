@@ -1,4 +1,4 @@
-# Final Project
+# Student Performance Prediction
 
 - Danesh Badlani
 - Sam Bluestone
